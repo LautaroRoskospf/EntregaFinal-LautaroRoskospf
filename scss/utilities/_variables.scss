@@ -1,0 +1,46 @@
+/* variables */
+$typo_principal: 'Roboto', sans-serif;
+
+$typo_titulos: 'Michroma', sans-serif;
+
+$back_main: #D2D6D9;
+
+$back_header: #6C7073;
+
+$back_hover: rgb(217, 74, 74);
+
+$color_font_principal: #00080D;
+
+$color_font_secundario: #6C7073;
+
+$shadow: 1px 1px 1px 1px rgba(32,32,32,0.3);
+
+
+/* maps */
+
+$colors:(
+    'uno': #FFFFFF,
+    'dos': #00080D,
+    'tres': #6C7073,
+    'cuatro': #D94A3D,
+    'cinco': #D94A4A,
+    'seis': #D2D6D9,
+    'siete': linear-gradient(to right,#00080D, #6C7073),
+    'ocho': #D2D6D9,
+    'nueve': linear-gradient(to right, #D94A4A, #00080D),
+);
+
+$cristal:(
+    'primero': rgba(255, 255, 255, .1),
+    'segundo': rgba(255, 255, 255, .2),
+    'tercero': rgba(255, 255, 255, .3),
+    'cuarto': rgba(255, 255, 255, .4),
+    'quinto': rgba(255, 255, 255, .5),
+    'sexto': rgba(0,0,0,.1),
+    'septimo': rgba(0,0,0,.2),
+    'octavo': rgba(0,0,0,.3),
+    'noveno': rgba(0,0,0,.4),
+    'decimo': rgba(0,0,0,.5)
+);
+
+

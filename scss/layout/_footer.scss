@@ -1,0 +1,17 @@
+/* footer */
+footer{
+    font-family: $color_font_secundario;
+    color: $color_font_principal;
+    p{
+        text-align: center;
+        padding: .3em;
+        font-size: 1.2em;
+    }
+    div{
+        text-align: center;
+        a img{
+            width: 4em;
+            padding: 1em;
+        }
+    }
+}
